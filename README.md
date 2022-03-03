@@ -16,7 +16,7 @@ The main differences in the weather temperature between June and December are:
 - The lowest temperature recorded in June was 64°F while in December it was 56°F
 
 ## Summary
-![image_name](https://github.com/Mugunthan24/surfs_up/blob/main/Images/June%20Precipitation%20Count%20DataFrame.png
+![image_name](https://github.com/Mugunthan24/surfs_up/blob/main/Images/June%20Precipitation%20Count%20DataFrame.png)
 
 ![image_name](https://github.com/Mugunthan24/surfs_up/blob/main/Images/December%20Precipitation%20Count%20DataFrame.png)
 

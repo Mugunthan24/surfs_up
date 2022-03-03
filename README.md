@@ -16,9 +16,9 @@ The main differences in the weather temperature between June and December are:
 - The lowest temperature recorded in June was 64°F while in December it was 56°F
 
 ## Summary
-![image_name](https://github.com/Mugunthan24/surfs_up/blob/main/Images/June%20Precipitation%20DataFrame.png)
+![image_name](https://github.com/Mugunthan24/surfs_up/blob/main/Images/June%20Precipitation%20Count%20DataFrame.png
 
-![image_name](https://github.com/Mugunthan24/surfs_up/blob/main/Images/December%20Precipitation%20DataFrame.png)
+![image_name](https://github.com/Mugunthan24/surfs_up/blob/main/Images/December%20Precipitation%20Count%20DataFrame.png)
 
 Based on the temperature results, it can be concluded that June is warmer than December but this difference is probably not drastic enough to significanly impact the sales at the surf and ice cream shop. The standard deviation is approximately the same in both June and December indicating that variations in temperature should be identical. The maximum and minimum temperatures recorded for each month are nearly the same as well. 
 

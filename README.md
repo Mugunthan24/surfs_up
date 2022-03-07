@@ -23,3 +23,5 @@ The main differences in the weather temperature between June and December are:
 Based on the temperature results, it can be concluded that June is warmer than December but this difference is probably not drastic enough to significanly impact the sales at the surf and ice cream shop. The standard deviation is approximately the same in both June and December indicating that variations in temperature should be identical. The maximum and minimum temperatures recorded for each month are nearly the same as well. 
 
 Additionally, the month of June has a total count of 647 days with no precipitation while the month of December has 510 days with no precipitation. December has more rainy days so we can possibly expect sales to go down slighly during this period.
+
+Overall, it is possible to have a successful surf and ice cream shop business, but sales can be expected to drop slightly in December.
